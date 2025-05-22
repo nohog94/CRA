@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HELLO.md",
+                "file": "단축키.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HELLO"
+              "title": "단축키"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HELLO.md",
+                "file": "단축키.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for HELLO"
+              "title": "Backlinks for 단축키"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HELLO.md",
+                "file": "단축키.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from HELLO"
+              "title": "Outgoing links from 단축키"
             }
           },
           {
@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HELLO.md",
+                "file": "단축키.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of HELLO"
+              "title": "Outline of 단축키"
             }
           },
           {
@@ -197,6 +197,10 @@
   },
   "active": "83b426e34e320307",
   "lastOpenFiles": [
-    "HELLO.md"
+    "resource/[클린코드]_1_1_클린코드_개요_민코딩_java_230325.pdf",
+    "resource/[클린코드]_1_2_실습준비_민코딩_java_230522.pdf",
+    "resource",
+    "새 폴더",
+    "단축키.md"
   ]
 }
