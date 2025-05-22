@@ -11,12 +11,14 @@
             "id": "83b426e34e320307",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "resource/[클린코드]_1_4_Tennis_민코딩_java_240522.pdf"
+                "file": "수업 메모.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "[클린코드]_1_4_Tennis_민코딩_java_240522"
+              "icon": "lucide-file",
+              "title": "수업 메모"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resource/[클린코드]_1_4_Tennis_민코딩_java_240522.pdf",
+                "file": "수업 메모.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for [클린코드]_1_4_Tennis_민코딩_java_240522"
+              "title": "Backlinks for 수업 메모"
             }
           },
           {
@@ -111,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resource/[클린코드]_1_4_Tennis_민코딩_java_240522.pdf",
+                "file": "수업 메모.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from [클린코드]_1_4_Tennis_민코딩_java_240522"
+              "title": "Outgoing links from 수업 메모"
             }
           },
           {
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resource/[클린코드]_1_4_Tennis_민코딩_java_240522.pdf",
+                "file": "수업 메모.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of [클린코드]_1_4_Tennis_민코딩_java_240522"
+              "title": "Outline of 수업 메모"
             }
           },
           {
@@ -179,11 +181,11 @@
   },
   "active": "83b426e34e320307",
   "lastOpenFiles": [
-    "resource/[클린코드]_1_5_클린코드_2부_민코딩_java_230325.pdf",
-    "resource/[클린코드]_1_3_클린코드_1부_민코딩_java_230325.pdf",
-    "resource/[클린코드]_1_4_Tennis_민코딩_java_240522.pdf",
     "단축키.md",
     "수업 메모.md",
+    "resource/[클린코드]_1_5_클린코드_2부_민코딩_java_230325.pdf",
+    "resource/[클린코드]_1_4_Tennis_민코딩_java_240522.pdf",
+    "resource/[클린코드]_1_3_클린코드_1부_민코딩_java_230325.pdf",
     "resource/[클린코드]_1_1_클린코드_개요_민코딩_java_230325.pdf",
     "resource/[클린코드]_1_2_실습준비_민코딩_java_230522.pdf",
     "resource",
