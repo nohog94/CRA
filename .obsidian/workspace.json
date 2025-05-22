@@ -11,30 +11,12 @@
             "id": "83b426e34e320307",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "단축키.md",
-                "mode": "source",
-                "source": false
+                "file": "resource/[클린코드]_1_4_Tennis_민코딩_java_240522.pdf"
               },
-              "icon": "lucide-file",
-              "title": "단축키"
-            }
-          }
-        ]
-      },
-      {
-        "id": "8e5227749091159f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "81a6cd77a246e1a1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file-text",
+              "title": "[클린코드]_1_4_Tennis_민코딩_java_240522"
             }
           }
         ]
@@ -110,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "단축키.md",
+                "file": "resource/[클린코드]_1_4_Tennis_민코딩_java_240522.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 단축키"
+              "title": "Backlinks for [클린코드]_1_4_Tennis_민코딩_java_240522"
             }
           },
           {
@@ -129,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "단축키.md",
+                "file": "resource/[클린코드]_1_4_Tennis_민코딩_java_240522.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 단축키"
+              "title": "Outgoing links from [클린코드]_1_4_Tennis_민코딩_java_240522"
             }
           },
           {
@@ -158,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "단축키.md",
+                "file": "resource/[클린코드]_1_4_Tennis_민코딩_java_240522.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 단축키"
+              "title": "Outline of [클린코드]_1_4_Tennis_민코딩_java_240522"
             }
           },
           {
@@ -197,10 +179,14 @@
   },
   "active": "83b426e34e320307",
   "lastOpenFiles": [
+    "resource/[클린코드]_1_5_클린코드_2부_민코딩_java_230325.pdf",
+    "resource/[클린코드]_1_3_클린코드_1부_민코딩_java_230325.pdf",
+    "resource/[클린코드]_1_4_Tennis_민코딩_java_240522.pdf",
+    "단축키.md",
+    "수업 메모.md",
     "resource/[클린코드]_1_1_클린코드_개요_민코딩_java_230325.pdf",
     "resource/[클린코드]_1_2_실습준비_민코딩_java_230522.pdf",
     "resource",
-    "새 폴더",
-    "단축키.md"
+    "새 폴더"
   ]
 }
