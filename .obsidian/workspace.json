@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "83b426e34e320307",
+            "id": "d32ba20cf2aa3582",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "수업 메모.md",
+                "file": "리팩토링/수업 메모.md",
                 "mode": "source",
                 "source": false
               },
@@ -179,16 +179,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "83b426e34e320307",
+  "active": "d32ba20cf2aa3582",
   "lastOpenFiles": [
-    "단축키.md",
-    "수업 메모.md",
-    "resource/[클린코드]_1_5_클린코드_2부_민코딩_java_230325.pdf",
-    "resource/[클린코드]_1_4_Tennis_민코딩_java_240522.pdf",
-    "resource/[클린코드]_1_3_클린코드_1부_민코딩_java_230325.pdf",
-    "resource/[클린코드]_1_1_클린코드_개요_민코딩_java_230325.pdf",
-    "resource/[클린코드]_1_2_실습준비_민코딩_java_230522.pdf",
-    "resource",
-    "새 폴더"
+    "리팩토링/[리팩토링]_1_1_UnitTest_민코딩_java_240607.pdf",
+    "리팩토링/수업 메모.md",
+    "클린코드/수업 메모.md",
+    "클린코드/단축키.md",
+    "클린코드/관계의 강도.md",
+    "클린코드/[클린코드]_2_1_OOP_민코딩_step2.pdf",
+    "리팩토링",
+    "클린코드/[클린코드]_2_2_캡슐화와추상화_java_250526.pdf",
+    "클린코드/[클린코드]_2_3_예측성_민코딩_java_250526.pdf",
+    "클린코드/[클린코드]_1_2_실습준비_민코딩_java_230522.pdf",
+    "클린코드/[클린코드]_1_1_클린코드_개요_민코딩_java_230325.pdf",
+    "클린코드/[클린코드]_2_1_OOP_민코딩_step1.pdf",
+    "클린코드/[클린코드]_1_5_클린코드_2부_민코딩_java_230325.pdf",
+    "클린코드/[클린코드]_1_4_Tennis_민코딩_java_240522.pdf"
   ]
 }
