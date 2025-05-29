@@ -11,12 +11,14 @@
             "id": "d32ba20cf2aa3582",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "클린코드/[클린코드]_2_1_OOP_민코딩_step2.pdf"
+                "file": "리팩토링/수업 메모.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "[클린코드]_2_1_OOP_민코딩_step2"
+              "icon": "lucide-file",
+              "title": "수업 메모"
             }
           }
         ]
@@ -51,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "use",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,20 +181,19 @@
   },
   "active": "d32ba20cf2aa3582",
   "lastOpenFiles": [
+    "리팩토링/[리팩토링]_3_1_VideoRental_민코딩_java_250528.pdf",
+    "클린코드/관계의 강도.md",
+    "리팩토링/[리팩토링]_2_3_SOLID_민코딩_java_250527.pdf",
+    "리팩토링/[리팩토링]_1_2_리팩토링_개요_민코딩_java_250527.pdf",
+    "리팩토링/[리팩토링]_1_1_UnitTest_민코딩_java_240607.pdf",
+    "리팩토링/[리팩토링]_2_2_GildedRose_민코딩_java_250527.pdf",
+    "클린코드/단축키.md",
+    "리팩토링/[리팩토링]_2_1_WheelOfFortune_민코딩_java_250527.pdf",
+    "클린코드/[클린코드]_2_1_OOP_민코딩_step2.pdf",
     "리팩토링/Refactoring_자세히보기_step1_250207.pdf",
     "클린코드/[클린코드]_2_2_캡슐화와추상화_java_250526.pdf",
     "클린코드/[클린코드]_2_3_예측성_민코딩_java_250526.pdf",
-    "리팩토링/[리팩토링]_1_2_리팩토링_개요_민코딩_java_250527.pdf",
-    "리팩토링/[리팩토링]_1_1_UnitTest_민코딩_java_240607.pdf",
-    "리팩토링/[리팩토링]_1_3_ALU_민코딩_java_250526.pdf",
-    "클린코드/단축키.md",
     "클린코드/수업 메모.md",
-    "리팩토링/수업 메모.md",
-    "클린코드/관계의 강도.md",
-    "클린코드/[클린코드]_2_1_OOP_민코딩_step2.pdf",
-    "리팩토링",
-    "클린코드/[클린코드]_1_2_실습준비_민코딩_java_230522.pdf",
-    "클린코드/[클린코드]_1_1_클린코드_개요_민코딩_java_230325.pdf",
-    "클린코드/[클린코드]_2_1_OOP_민코딩_step1.pdf"
+    "리팩토링/수업 메모.md"
   ]
 }
