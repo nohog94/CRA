@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 415.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d32ba20cf2aa3582",
+  "active": "79519145f25eadc6",
   "lastOpenFiles": [
     "리팩토링/[리팩토링]_3_1_VideoRental_민코딩_java_250528.pdf",
     "클린코드/관계의 강도.md",
