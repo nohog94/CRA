@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "수업 메모.md",
+                "file": "리팩토링/[리팩토링]_4_2_Trivia_민코딩_java_250529.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 수업 메모"
+              "title": "Backlinks for [리팩토링]_4_2_Trivia_민코딩_java_250529"
             }
           },
           {
@@ -177,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d32ba20cf2aa3582",
+  "active": "79519145f25eadc6",
   "lastOpenFiles": [
     "클린코드/관계의 강도.md",
     "리팩토링/[리팩토링]_4_2_Trivia_민코딩_java_250529.pdf",
