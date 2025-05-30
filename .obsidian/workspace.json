@@ -11,14 +11,12 @@
             "id": "d32ba20cf2aa3582",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "리팩토링/수업 메모.md",
-                "mode": "source",
-                "source": false
+                "file": "리팩토링/[리팩토링]_4_2_Trivia_민코딩_java_250529.pdf"
               },
-              "icon": "lucide-file",
-              "title": "수업 메모"
+              "icon": "lucide-file-text",
+              "title": "[리팩토링]_4_2_Trivia_민코딩_java_250529"
             }
           }
         ]
@@ -179,21 +177,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "79519145f25eadc6",
+  "active": "d32ba20cf2aa3582",
   "lastOpenFiles": [
-    "리팩토링/[리팩토링]_3_1_VideoRental_민코딩_java_250528.pdf",
     "클린코드/관계의 강도.md",
+    "리팩토링/[리팩토링]_4_2_Trivia_민코딩_java_250529.pdf",
+    "리팩토링/[리팩토링]_4_1_디자인패턴_민코딩_java_230425.pdf",
+    "클린코드/단축키.md",
+    "리팩토링/수업 메모.md",
+    "리팩토링/Refactoring_자세히보기_step1_250207.pdf",
+    "리팩토링/[리팩토링]_3_2_코드스멜_java_250528.pdf",
+    "리팩토링/[리팩토링]_3_1_VideoRental_민코딩_java_250528.pdf",
     "리팩토링/[리팩토링]_2_3_SOLID_민코딩_java_250527.pdf",
     "리팩토링/[리팩토링]_1_2_리팩토링_개요_민코딩_java_250527.pdf",
     "리팩토링/[리팩토링]_1_1_UnitTest_민코딩_java_240607.pdf",
     "리팩토링/[리팩토링]_2_2_GildedRose_민코딩_java_250527.pdf",
-    "클린코드/단축키.md",
     "리팩토링/[리팩토링]_2_1_WheelOfFortune_민코딩_java_250527.pdf",
-    "클린코드/[클린코드]_2_1_OOP_민코딩_step2.pdf",
-    "리팩토링/Refactoring_자세히보기_step1_250207.pdf",
-    "클린코드/[클린코드]_2_2_캡슐화와추상화_java_250526.pdf",
-    "클린코드/[클린코드]_2_3_예측성_민코딩_java_250526.pdf",
-    "클린코드/수업 메모.md",
-    "리팩토링/수업 메모.md"
+    "클린코드/수업 메모.md"
   ]
 }
