@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "use",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,21 +177,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "79519145f25eadc6",
+  "active": "9a053eb5eacb260f",
   "lastOpenFiles": [
+    "리팩토링/untitled3/src/main/java/Vehicle.java",
+    "리팩토링/untitled3/src/main/java/Main.java",
+    "리팩토링/untitled3/src/main/java/IGreeter.java",
+    "리팩토링/untitled3/src/main/java/Fueler.java",
+    "리팩토링/untitled3/src/main/java/Car.java",
+    "리팩토링/untitled3/src/main/java/Alerter.java",
+    "리팩토링/untitled3/src/test/resources",
+    "리팩토링/untitled3/src/test/java",
+    "리팩토링/untitled3/src/main/resources",
+    "리팩토링/untitled3/src/main/java",
+    "리팩토링/untitled3/gradle/wrapper/gradle-wrapper.properties",
+    "TDD/수업 메모.md",
     "클린코드/관계의 강도.md",
-    "리팩토링/[리팩토링]_4_2_Trivia_민코딩_java_250529.pdf",
-    "리팩토링/[리팩토링]_4_1_디자인패턴_민코딩_java_230425.pdf",
     "클린코드/단축키.md",
     "리팩토링/수업 메모.md",
-    "리팩토링/Refactoring_자세히보기_step1_250207.pdf",
-    "리팩토링/[리팩토링]_3_2_코드스멜_java_250528.pdf",
-    "리팩토링/[리팩토링]_3_1_VideoRental_민코딩_java_250528.pdf",
-    "리팩토링/[리팩토링]_2_3_SOLID_민코딩_java_250527.pdf",
-    "리팩토링/[리팩토링]_1_2_리팩토링_개요_민코딩_java_250527.pdf",
-    "리팩토링/[리팩토링]_1_1_UnitTest_민코딩_java_240607.pdf",
-    "리팩토링/[리팩토링]_2_2_GildedRose_민코딩_java_250527.pdf",
-    "리팩토링/[리팩토링]_2_1_WheelOfFortune_민코딩_java_250527.pdf",
     "클린코드/수업 메모.md"
   ]
 }
