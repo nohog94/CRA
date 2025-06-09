@@ -1,4 +1,12 @@
-package PACKAGE_NAME;
+public class TestableMailSender extends MailSender{
+    private int countSendMailMethodIsCalled;
 
-public class TestableMailSender {
+    @Override
+    public void sendMail(Schedule schedule) {
+        countSendMailMethodIsCalled++;
+    }
+
+    public int getCountSendMailMethodIsCalled() {
+        return countSendMailMethodIsCalled;
+    }
 }
